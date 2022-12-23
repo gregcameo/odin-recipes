@@ -1,0 +1,36 @@
+body {
+    font-family:'Courier New', Courier, monospace ;
+    background-color: bisque;
+}
+
+.page-title,
+.home-link {
+    text-align: center;
+    font-weight: 900;
+    background-color:rgb(117, 233, 225);
+    color: rgb(0, 0, 0);
+}
+
+.pasta {
+    text-align: left;
+    color: red;
+}
+
+.breakfast {
+    text-align: center;
+    color: yellow;
+}
+
+.dessert {
+    text-align: right;
+    color: chocolate;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 300px;
+}
+
