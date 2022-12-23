@@ -1,6 +1,6 @@
 body {
     font-family:'Courier New', Courier, monospace ;
-    background-color: bisque;
+    background-color: rgb(251, 179, 255);
 }
 
 .page-title,
@@ -9,6 +9,10 @@ body {
     font-weight: 900;
     background-color:rgb(117, 233, 225);
     color: rgb(0, 0, 0);
+}
+
+.header {
+    background-color: rgba(151, 220, 151, 0.575);
 }
 
 .pasta {
